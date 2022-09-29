@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Congrats on graduating today!!!
 
-### More Information
+### More Information ? Testing?
 
-A place to include any other types of information that you'd like to include about yourself.
+HooRAyyyy !! 
 
 ### Contact me
 
